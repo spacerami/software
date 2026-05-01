@@ -10,6 +10,6 @@ void loop() {}
 
 
 // # The parachute thing
-//  - Red > 3V3
-//  - Brown > GND
-//  - Black > D13
+//  - Servo Red > Red > 3V3
+//  - Servo Brown > Brown > GND
+//  - Servo Yellow > Black > D13
